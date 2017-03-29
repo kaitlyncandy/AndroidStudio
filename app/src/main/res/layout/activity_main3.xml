@@ -22,6 +22,8 @@
             android:text="We set out to provide a helpful service that provids for all the cocktail-enthusiasts and even beginners out there. With minimal effort, you can become a master of the Cocktail Bar. Assemble the ingredients and tools, and follow our guide to making the best cocktails around. For an even more immersive expierence, join our Premium Membership Programme to get greater access to our site, with Premium-only videos to help you along the way to Cocktail-Greatness. You will also have the ability to post your own creations, and become the talk of the Cocktail town." />
     </FrameLayout>
 
+
+
     <Button
         android:id="@+id/button4"
         android:layout_width="194dp"
